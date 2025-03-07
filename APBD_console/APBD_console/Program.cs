@@ -1,4 +1,13 @@
-﻿var a = 12;
+﻿static int pitagors(int a, int b)
+{
+    return a*a + b*b;
+}
+
+
+var a = 12;
 var b = 11;
 
-Console.WriteLine(a*a+b*b);
+pitagors(a, b);
+
+
+
