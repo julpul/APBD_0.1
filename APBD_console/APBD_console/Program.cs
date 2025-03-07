@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿var a = 12;
+var b = 11;
+
+Console.WriteLine(a*a+b*b);
